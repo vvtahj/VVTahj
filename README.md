@@ -4,90 +4,54 @@ HI! I'm Tahjamell Bullock a Business Management graduate and IT professional wit
 
 Below you'll find documented labs I completed through the Course Careers IT training program, where I applied technical concepts in virtual environments to simulate real enterprise IT systems and support structures.
 
+
 ---
 
-- <b>Active Directory Deployment & Domain Services</b>  
+## IT Labs & Projects
+
+### 🔐 Active Directory Deployment & Domain Services
   - [Active Directory: Setup in Azure](https://github.com/vvtahj/ad-setup-in-azure)  
-    <sub>Deployed Windows Server 2022 and Windows 10 VMs in Azure. Promoted the domain controller (DC-1) and joined a client (Client-1) to the domain. Set static IPs, DNS, and verified connectivity.</sub>  
   - [Active Directory: Users, Groups, and OUs](https://github.com/yourusername/ad-users-and-groups)  
-    <sub>Created Organizational Units (_EMPLOYEES, _ADMINS, _CLIENTS), user accounts, and security groups. Logged in with created users to verify authentication.</sub>  
   - [PowerShell: Bulk User Creation](https://github.com/yourusername/ad-powershell-users)  
-    <sub>Used PowerShell scripting to bulk create users and assign them to security groups.</sub>  
-
-
-
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/vvtahj/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
-
-
-
-
-## 🔐 Active Directory Deployment & Domain Services
-
-**Overview:**  
-In this lab, I configured a Windows Server 2022 VM as a domain controller in Azure and joined a Windows 10 client machine to the domain. I created Organizational Units (OUs), users, and groups using both the GUI and PowerShell scripting.
-
-**Skills & Tools:**  
-- Azure VMs  
-- Active Directory Domain Services  
-- PowerShell scripting  
-- Group Policy Objects  
-- User and OU management  
-
-📂 [View Lab Files & Walkthrough](https://github.com/YOURUSERNAME/active-directory-lab)
 
 ---
 
-## 🖥️ osTicket Helpdesk Deployment
-
-**Overview:**  
-Installed and configured the osTicket support ticket system from scratch on a Windows 10 VM. Practiced using the platform as an admin, agent, and end user to understand the full ticket lifecycle.
-
-**Skills & Tools:**  
-- IIS, PHP, MySQL  
-- osTicket v1.15.8  
-- Ticket management (creation, escalation, closure)  
-- SLA, roles, departments, and user setup  
-
-📂 [View Lab Files & Walkthrough](https://github.com/YOURUSERNAME/osticket-deployment-lab)
+### 🖥️ osTicket Helpdesk Deployment
+  - [osTicket: Prerequisites and Installation](https://github.com/yourusername/osticket-prereqs)  
+    <sub>Installed and configured osTicket v1.15.8 with IIS, MySQL, PHP, and PHP Manager. Verified installation and configured initial system settings.</sub>  
+  - [osTicket: Post-Installation Configuration](https://github.com/yourusername/osticket-post-install)  
+    <sub>Set up departments, roles, agents, and SLAs. Managed user settings and tested ticket visibility/access.</sub>  
+  - [osTicket: Ticket Lifecycle Simulation](https://github.com/yourusername/osticket-ticket-lifecycle)  
+    <sub>Created, escalated, and resolved tickets from admin, agent, and end-user perspectives to understand the full support cycle.</sub>  
 
 ---
 
-## 🌐 DNS Configuration & Troubleshooting
-
-**Overview:**  
-Configured DNS A and CNAME records from a domain controller and observed their behavior across client machines. Learned to troubleshoot DNS resolution, caching, and propagation in a simulated enterprise environment.
-
-**Skills & Tools:**  
-- DNS A-records & CNAMEs  
-- `nslookup`, `ping`, `ipconfig`  
-- DNS cache analysis and flushing  
-
-📂 [View Lab Files & Walkthrough](https://github.com/YOURUSERNAME/dns-lab)
+### 🌐 DNS Configuration & Troubleshooting
+  - [DNS: Record Management (A & CNAME)](https://github.com/yourusername/dns-records-lab)  
+    <sub>Created DNS A-records and CNAMEs from DC-1 and tested resolution on Client-1. Used nslookup, ipconfig, and ping to troubleshoot and verify cache behavior.</sub>  
 
 ---
 
-## 🛡️ Account Lockout & Password Policy Enforcement (GPO)
-
-**Overview:**  
-Simulated real-world cybersecurity operations by implementing Group Policy Objects to enforce account lockout thresholds. Tested how AD accounts are locked, unlocked, and reset, while monitoring logs on both server and client machines.
-
-**Skills & Tools:**  
-- Group Policy Management  
-- Account supervision (lockouts, resets)  
-- Windows Event Logs  
-- Security policy implementation  
-
-📂 [View Lab Files & Walkthrough](https://github.com/YOURUSERNAME/account-lockout-policy-lab)
+### 🌍 VPN Configuration and Network Privacy
+  - [ProtonVPN: Setup and Usage](https://github.com/yourusername/protonvpn-lab)  
+    <sub>Installed and tested VPN connections using ProtonVPN on both host and VM environments. Verified IP masking and website localization based on VPN location.</sub>  
 
 ---
 
-## 🚀 More Labs Coming Soon...
+### 🛡️  Group Policy: Account Lockout & Password Policy Security
+  - [GPO: Password Policy and Lockout Settings](https://github.com/yourusername/account-lockout-lab)  
+    <sub>Configured Group Policy Objects to enforce lockout after failed login attempts. Simulated lockouts, resets, and analyzed Event Viewer logs.</sub>  
+
+---
+
+### 📁 File Sharing and Access Permissions
+  - [Windows Server: Shared Folder Permissions](https://github.com/yourusername/network-shares-lab)  
+    <sub>Created shared folders with custom NTFS and share permissions. Tested access as standard users and enforced group-based access control (e.g., ACCOUNTANTS group).</sub>  
+
+---
+
+Let me know when you’re ready to build the actual individual `README.md` files for each lab repo — I’ll help you write those out too!
+
 
 Stay tuned as I continue building and sharing more technical projects. Follow me or connect with me on [LinkedIn](https://www.linkedin.com/in/tahjamell-bullock-5b4611230).
 
