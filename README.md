@@ -11,8 +11,8 @@ Below you'll find documented labs I completed through the Course Careers IT trai
 
 ### 🔐 Active Directory Deployment & Domain Services
   - [Active Directory: Setup in Azure](https://github.com/vvtahj/ad-setup-in-azure)  
-  - [Active Directory: Users, Groups, and OUs](https://github.com/yourusername/ad-users-and-groups)  
-  - [PowerShell: Bulk User Creation](https://github.com/yourusername/ad-powershell-users)  
+  - [Active Directory: Users, Groups, and OUs](https://github.com/vvtahj/ad-users-and-groups)  
+  - [PowerShell: Bulk User Creation](https://github.com/vvtahj/ad-powershell-users)  
 
 ---
 
