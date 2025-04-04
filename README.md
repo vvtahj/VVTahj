@@ -23,40 +23,33 @@ Below you'll find documented labs I completed through the Course Careers IT trai
 ---
 
 ### 🖥️ osTicket Helpdesk Deployment
-  - [osTicket: Prerequisites and Installation](https://github.com/yourusername/osticket-prereqs)  
-    <sub>Installed and configured osTicket v1.15.8 with IIS, MySQL, PHP, and PHP Manager. Verified installation and configured initial system settings.</sub>  
-  - [osTicket: Post-Installation Configuration](https://github.com/yourusername/osticket-post-install)  
-    <sub>Set up departments, roles, agents, and SLAs. Managed user settings and tested ticket visibility/access.</sub>  
-  - [osTicket: Ticket Lifecycle Simulation](https://github.com/yourusername/osticket-ticket-lifecycle)  
-    <sub>Created, escalated, and resolved tickets from admin, agent, and end-user perspectives to understand the full support cycle.</sub>  
+  - [osTicket: Prerequisites and Installation](https://github.com/vvtahj/osticket-prereqs)  
+  - [osTicket: Post-Installation Configuration](https://github.com/vvtahj/osticket-post-install)  
+  - [osTicket: Ticket Lifecycle Simulation](https://github.com/vvtahj/osticket-ticket-lifecycle)  
 
 ---
 
 ### 🌐 DNS Configuration & Troubleshooting
-  - [DNS: Record Management (A & CNAME)](https://github.com/yourusername/dns-records-lab)  
-    <sub>Created DNS A-records and CNAMEs from DC-1 and tested resolution on Client-1. Used nslookup, ipconfig, and ping to troubleshoot and verify cache behavior.</sub>  
+  - [DNS: Record Management (A & CNAME)](https://github.com/vvtahj/dns-records-lab)  
 
 ---
 
 ### 🌍 VPN Configuration and Network Privacy
-  - [ProtonVPN: Setup and Usage](https://github.com/yourusername/protonvpn-lab)  
+  - [ProtonVPN: Setup and Usage](https://github.com/vvtahj/protonvpn-lab)  
     <sub>Installed and tested VPN connections using ProtonVPN on both host and VM environments. Verified IP masking and website localization based on VPN location.</sub>  
 
 ---
 
 ### 🛡️  Group Policy: Account Lockout & Password Policy Security
-  - [GPO: Password Policy and Lockout Settings](https://github.com/yourusername/account-lockout-lab)  
-    <sub>Configured Group Policy Objects to enforce lockout after failed login attempts. Simulated lockouts, resets, and analyzed Event Viewer logs.</sub>  
+  - [GPO: Password Policy and Lockout Settings](https://github.com/vvtahj/account-lockout-lab)  
 
 ---
 
 ### 📁 File Sharing and Access Permissions
-  - [Windows Server: Shared Folder Permissions](https://github.com/yourusername/network-shares-lab)  
-    <sub>Created shared folders with custom NTFS and share permissions. Tested access as standard users and enforced group-based access control (e.g., ACCOUNTANTS group).</sub>  
+  - [Windows Server: Shared Folder Permissions](https://github.com/vvtahj/network-shares-lab)  
 
 ---
 
-Let me know when you’re ready to build the actual individual `README.md` files for each lab repo — I’ll help you write those out too!
 
 
 Stay tuned as I continue building and sharing more technical projects. Follow me or connect with me on [LinkedIn](https://www.linkedin.com/in/tahjamell-bullock-5b4611230).
