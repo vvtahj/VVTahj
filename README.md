@@ -56,10 +56,14 @@ Stay tuned as I continue building and sharing more technical projects. Follow me
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Josh | Twitter" width="22px" src="https://github.com/user-attachments/assets/9508ef73-37a8-4c1c-878b-9fb5da0b5950" />][twitter]
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Josh | Instagram" width="22px" src="https://github.com/user-attachments/assets/d490f85f-95ff-4570-baac-36612d4ac1d5" />][instagram]
 
-[twitter]: https://twitter.com/Josh
+[twitter]: https://x.com/tahjb_12?lang=en
 [instagram]: https://www.instagram.com/Josh
 [linkedin]: https://linkedin.com/in/Josh
+
+
+
+
