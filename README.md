@@ -36,7 +36,6 @@ Below you'll find documented labs I completed through the Course Careers IT trai
 
 ### 🌍 VPN Configuration and Network Privacy
   - [ProtonVPN: Setup and Usage](https://github.com/vvtahj/protonvpn-lab)  
-    <sub>Installed and tested VPN connections using ProtonVPN on both host and VM environments. Verified IP masking and website localization based on VPN location.</sub>  
 
 ---
 
