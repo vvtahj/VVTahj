@@ -60,8 +60,8 @@ Stay tuned as I continue building and sharing more technical projects. Follow me
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://github.com/user-attachments/assets/d490f85f-95ff-4570-baac-36612d4ac1d5" />][instagram]
 
 [twitter]: https://x.com/tahjb_12?lang=en
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[instagram]: https://www.instagram.com/tahjb_12/?hl=en
+[linkedin]: https://www.linkedin.com/in/tahjamell-bullock-5b4611230
 
 
 
