@@ -49,15 +49,13 @@ Below you'll find documented labs I completed through the Course Careers IT trai
 
 ---
 
-
-
 Stay tuned as I continue building and sharing more technical projects. Follow me or connect with me on [LinkedIn](https://www.linkedin.com/in/tahjamell-bullock-5b4611230).
 
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://github.com/user-attachments/assets/9508ef73-37a8-4c1c-878b-9fb5da0b5950" />][twitter]
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://github.com/user-attachments/assets/d490f85f-95ff-4570-baac-36612d4ac1d5" />][instagram]
+[<img align="left" alt="Josh | Instagram" width="22px" src="https://github.com/user-attachments/assets/748fb4b2-18a8-49b7-ab0a-989e5ec6af5a" />][instagram]
 
 [twitter]: https://x.com/tahjb_12?lang=en
 [instagram]: https://www.instagram.com/tahjb_12/?hl=en
