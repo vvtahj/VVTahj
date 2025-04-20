@@ -2,7 +2,7 @@
 
 # 💻 Tahjamell Bullock - <a href="https://www.linkedin.com/in/tahjamell-bullock-5b4611230/">IT Professional Portfolio</a> </h1>
 
-HI! I'm Tahjamell Bullock a Business Management graduate and IT professional with hands-on experience in system administration, Active Directory, helpdesk operations, networking, and cybersecurity fundamentals.
+HI! I'm Tahjamell Bullock a Business Management graduate and IT professional with hands on experience in system administration, Active Directory, helpdesk operations, networking, and cybersecurity fundamentals.
 
 Below you'll find documented labs I completed through the Course Careers IT training program, where I applied technical concepts in virtual environments to simulate real enterprise IT systems and support structures.
 
